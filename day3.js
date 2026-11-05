@@ -1,0 +1,15 @@
+Name="ARSLAN ALI";
+age=22;
+let canVote =age >=26;
+let marks;
+let roll_Number=null;
+console.log(Name);
+console.log(age);
+console.log(canVote);
+console.log(marks);
+console.log(roll_Number);
+console.log(typeof Name);
+console.log(typeof age);
+console.log(typeof canVote);
+console.log(typeof marks);
+console.log( typeof roll_Number);
